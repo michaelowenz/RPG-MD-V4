@@ -30,7 +30,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 global.sig = 'https://'
 global.syt = 'https://youtube.com/channel/UCNd2YT2Dw64TLVuro1j0r3g'
 global.sgh = 'https://github.com/michaelowenz'
-global.sgc = 'https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL'
+global.sgc = 'https://chat.whatsapp.com/K5GDxsz2evX9vWkkSASjc4'
 global.swa = 'https://wa.me/6283169566533'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
@@ -44,7 +44,7 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '17326319049'
+global.nomorbot = '6282128954660'
 global.nomorown = '6283169566533'
 global.namebot = 'Miz-Bot'
 global.nameown = 'michael'
